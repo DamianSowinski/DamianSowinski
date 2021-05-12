@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DamianSowinski
+- 👀 I’m interested in programming, 3D and vector graphics
+- 🌱 I’m currently learning Angular & Symfony
+- 📫 How to reach me - visit my portfolio: https://es3d.pl/
